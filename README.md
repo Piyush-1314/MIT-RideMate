@@ -4,7 +4,7 @@
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
 
-A **web application** for the MIT (Manipal Institute of Technology) community to share rides, reduce travel costs, and support sustainable commuting 🌱.  
+A **web application** for the MIT (Maharashtra Institute of Technology) community to share rides, reduce travel costs, and support sustainable commuting 🌱.  
 Only users with an MIT email can register, ensuring safety and trust.  
 
 ---
@@ -14,9 +14,8 @@ Only users with an MIT email can register, ensuring safety and trust.
 - 🔑 **Secure Authentication** (MIT email verification)  
 - 🚘 **Offer & Join Rides** with source, destination, time, and available seats  
 - 🔍 **Search Rides** by location and timing  
-- 💬 **In-App Chat** for coordination  
-- 📍 **Optional Location Sharing**  
-- ⭐ **Ratings & Feedback** system  
+- 💬 **In-App Chat** for coordination 
+- ⭐ **Ratings & Feedback** system
 
 ---
 
