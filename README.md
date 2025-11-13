@@ -1,41 +1,20 @@
-# 🚗 MIT Car Pool Web App  
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)  
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
+# Run and deploy your AI Studio app
 
-A **web application** for the MIT (Maharashtra Institute of Technology) community to share rides, reduce travel costs, and support sustainable commuting 🌱.  
-Only users with an MIT email can register, ensuring safety and trust.  
+This contains everything you need to run your app locally.
 
----
+View your app in AI Studio: https://ai.studio/apps/drive/1lM48U6mFB5Gk_PyaTFD_C5rEn6Nzs2a6
 
-## ✨ Features  
+## Run Locally
 
-- 🔑 **Secure Authentication** (MIT email verification)  
-- 🚘 **Offer & Join Rides** with source, destination, time, and available seats  
-- 🔍 **Search Rides** by location and timing  
-- 💬 **In-App Chat** for coordination 
-- ⭐ **Ratings & Feedback** system
+**Prerequisites:**  Node.js
 
----
 
-## 🛠 Tech Stack  
-
-- **Frontend:** React.js + Tailwind CSS  
-- **Backend:** Django REST Framework
-- **Database:** MySQL  
-- **Authentication:** JWT / OAuth (MIT Email Verification)  
-- **Deployment:** Docker + AWS / Heroku  
-
----
-
-## 📂 Project Structure  
-
-```bash
-MIT-CarPool/
-├── frontend/      # React frontend
-├── backend/       # Django/Node.js backend
-├── database/      # DB schemas & migrations
-├── docs/          # Documentation
-└── README.md      # Project guide
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
