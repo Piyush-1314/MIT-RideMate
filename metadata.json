@@ -1,0 +1,7 @@
+{
+  "name": "MIT WPU RideMate",
+  "description": "A modern carpooling web application for students and staff of MIT World Peace University, Pune. Find or offer rides easily and connect with your university community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
